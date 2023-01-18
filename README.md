@@ -1,0 +1,2 @@
+# 3D Proton in Unity
+This is a repository containing files necessary to run the 3D Proton VR experience in Unity. This project uses virtual reality and other visualization tools to model the mechanical and quantum mechanical properties of the partons inside the proton. Scripts controlling the simulation are written in C#. More information on the project can be found [here](https://confluence.its.virginia.edu/display/twist/3D+Proton+in+Unity). 
